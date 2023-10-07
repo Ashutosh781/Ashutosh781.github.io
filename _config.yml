@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZEtR-yMAAAAJ&hl=en"
-  email            : "mailto:gupta.ash.19223@gmail.com"
+  email            : "gupta.ash.19223@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,8 +228,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -244,6 +247,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _research
+  -scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:
