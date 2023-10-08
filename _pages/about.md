@@ -16,7 +16,7 @@ For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.ed
 Prior to that, I remotly collaborated with the [Pipebots](https://pipebots.ac.uk/) team at University of Sheffield, UK under [Dr. Rob Worley](https://pipebots.ac.uk/people/rob-worley/). I mainly worked on developing and modelling acoustics simulation package to solve for higher order sound reflections in pipes.
 
 Further details of my work can be found in the [Research](/research/) section.
-You can download my [CV](/files/cv.pdf) here.
+You can download my [CV](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrYaiSDW5cHXKaIIks/view?usp=sharing) here.
 
 ## Research Interests
 
