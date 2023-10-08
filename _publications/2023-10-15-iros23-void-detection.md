@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/2023-iros-void-detection
 excerpt: 'This work presents a novel approach for semi-automated ex-post-facto detection of voids in the rubble pile of the Surfside Structural Collapse at Miami.'
 date: 2023-10-15 # Need to change this to the actual date
-venue: '2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
-paperurl: '' # Need to change this to the actual link
-citation: 'TBA' # Need to add this
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023'
+citation: 'A. Bal, A. Gupta, P. Goyal, D. Merrick, R. Murphy and H. Choset, "Towards Automated Void Detection for Search and Rescue with 3D Perception," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, USA, 2023' # Need to edit this
 ---
 
 Aerial imagery collected from the disaster site with uncrewed aerial systems (UASs) provides an broad view of the disaster scene which is helpful locating multiple void regions at once. 3D reconstructions generated from aerial images capture essential information that can be used to identify and characterize void spaces and analyze terrain mobility for robots. While the use of 3D reconstructions is not real time yet, data analyzed through this method can help predict the occurrence, location, appearance and likelihood of voids in future collapses.

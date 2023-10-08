@@ -5,7 +5,6 @@ permalink: /publication/2023-icra-workshop-deformation
 excerpt: 'This work introduces a method to utilize 2D tomographic medical imaging for building and calibrating a simplified FEM simulation of 3D vessel structures.'
 date: 2023-05-29
 venue: 'Workshop on Representing and Manipulating Deformable Objects at IEEE ICRA 2023'
-paperurl: 'https://deformable-workshop.github.io/icra2023/spotlight/27-Bal-Spotlight.pdf'
 citation: 'A. Bal, A. Gupta, C. Morales, A. Dubrawski, J. Galeotti, H. Choset, ”3D Deformation Simulation for Vascular Tissue with 2D Medical Imaging,” IEEE International Conference on Robotics and Automation Workshop on Representing and Manipulating Deformable Objects (ICRA), London, UK, 2023'
 ---
 
