@@ -10,3 +10,5 @@ Developed a novel 3D surface reconstruction pipeline which feeds into automated 
 Created an evolutionary algorithm-based real-time optimization module that determines the best trajectory for the RGB-D sensor for surface reconstruction.
 
 <img title="Robotic Ultrasound setup" alt="Robotic Ultrasound setup" src="/images/rus.png">
+
+Above image shows the robotic ultrasound setup used.
