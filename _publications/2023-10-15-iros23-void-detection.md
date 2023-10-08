@@ -6,7 +6,7 @@ excerpt: 'This work presents a novel approach for semi-automated ex-post-facto d
 date: 2023-10-15 # Need to change this to the actual date
 venue: '2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: '' # Need to change this to the actual link
-citation: '' # Need to add this
+citation: 'TBA' # Need to add this
 ---
 
 Aerial imagery collected from the disaster site with uncrewed aerial systems (UASs) provides an broad view of the disaster scene which is helpful locating multiple void regions at once. 3D reconstructions generated from aerial images capture essential information that can be used to identify and characterize void spaces and analyze terrain mobility for robots. While the use of 3D reconstructions is not real time yet, data analyzed through this method can help predict the occurrence, location, appearance and likelihood of voids in future collapses.
@@ -15,4 +15,4 @@ In this paper, we present a novel approach for semi-automated ex-post-facto dete
 
 Our method can be applied to similar previous data or data collected in the future to find regions presenting characteristics of void spaces. A collection of such regions could one day help build learning-based predictive systems for such disasters.
 
-<!-- Add link to paper -->
+Link to the paper: TBA

@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my MS in Robotics at Oregon State University.
-I completed my BE in Electronics and Communication Engineering from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023.
+I am currently pursuing my MS in Robotics at Oregon State University. I completed my BE in Electronics and Communication from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023.
 
 For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/), CMU, USA under [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). Some of my notable work there included developing a surface reconstruction module for a robotic ultrasound system and working on distributed and decentralized control for a modular leg-wheel hybrid robot.
 
