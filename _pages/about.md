@@ -12,10 +12,10 @@ I am currently pursuing my MS in Robotics at Oregon State University. I complete
 
 For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/), CMU, USA under [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). Some of my notable work there included developing a surface reconstruction module for a robotic ultrasound system and working on distributed and decentralized control for a modular leg-wheel hybrid robot.
 
-Prior to that, I remotly collaborated with the [Pipebots](https://pipebots.ac.uk/) team at University of Sheffield, UK under [Dr. Rob Worley](https://pipebots.ac.uk/people/rob-worley/). I mainly worked on developing and modelling acoustics simulation package to solve for higher order sound reflections in pipes.
+Prior to that, I remotly collaborated with the [Pipebots](https://pipebots.ac.uk/) team at the University of Sheffield, UK under [Dr. Robert Worley](https://pipebots.ac.uk/people/rob-worley/). I mainly worked on developing and modelling acoustics simulation package to solve for higher order sound reflections in pipes.
 
 Further details of my work can be found in the [Research](/research/) section.
-You can download my [CV](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrYaiSDW5cHXKaIIks/view?usp=sharing) here.
+You can download my [CV here](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrYaiSDW5cHXKaIIks/view?usp=sharing).
 
 ## Research Interests
 

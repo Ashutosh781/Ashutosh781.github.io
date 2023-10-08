@@ -9,35 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+You can view my complete [CV here](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrYaiSDW5cHXKaIIks/view?usp=sharing).
+
 Education
 ======
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E in Electronics and Communication, BITS Pilani Goa, 2023
+* M.S. in Robotics, Oregon State University, 2025 (expected)
 
 Work experience
 ======
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2022 - May 2023: Research Intern
+  * Biorobotics Lab, Carneigie Mellon University
+  * Supervisor: Professor Howie Choset
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2021 - May 2022: Remote Research Collaborator
+  * Sheffield Robotics, The University of Sheffield
+  * Supervisor: Dr Robert Worley
 
-Skills
-======
+* Jun 2021 - Jul 2021: Robotics Intern
+  * Peppermint Robots, India
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2021 - Jul 2021: Remote Research Intern
+  * CSIR - National Institute of Oceanography, India
+  * Supervisor: Gajanan Navelkar
 
 Publications
 ======
@@ -47,8 +43,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
-
-Service and leadership
-======
-
-* Currently signed in to 43 different slack teams
