@@ -6,7 +6,7 @@ excerpt: 'This work introduces a Novel 3D surface reconstruction pipeline which 
 generation and comprehensive evaluation score for quantifying the quality of reconstructed point clouds.'
 date: 2023-07-04
 venue: '2023 IEEE International Conference on Robotics and Automation (ICRA)'
-paperurl: 'https://ieeexplore.ieee.org/document/10161513'
+# paperurl: 'https://ieeexplore.ieee.org/document/10161513'
 citation: 'A. Bal, A. Gupta, F. Abhimanyu, J. Galeotti and H. Choset, ”A Curvature and Trajectory Optimization-based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation,” IEEE International Conference on Robotics and Automation (ICRA), London, UK, 2023, pp. 2724-2730'
 ---
 
