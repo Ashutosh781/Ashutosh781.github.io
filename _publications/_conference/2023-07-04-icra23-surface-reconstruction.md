@@ -1,6 +1,6 @@
 ---
 title: "A Curvature and Trajectory Optimization-based 3D Surface Reconstruction Pipeline for Ultrasound Trajectory Generation"
-collection: publications
+collection: publications_conference
 permalink: /publication/2023-icra-surface-reconstruction
 excerpt: 'This work introduces a Novel 3D surface reconstruction pipeline which feeds into automated ultrasound scanning trajectory
 generation and comprehensive evaluation score for quantifying the quality of reconstructed point clouds.'

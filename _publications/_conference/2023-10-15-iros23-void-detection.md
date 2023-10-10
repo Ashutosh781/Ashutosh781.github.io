@@ -1,6 +1,6 @@
 ---
 title: "Towards Automated Void Detection for Search and Rescue with 3D Perception"
-collection: publications
+collection: publications_conference
 permalink: /publication/2023-iros-void-detection
 excerpt: 'This work presents a novel approach for semi-automated ex-post-facto detection of voids in the rubble pile of the Surfside Structural Collapse at Miami.'
 date: 2023-10-15 # Need to change this to the actual date
