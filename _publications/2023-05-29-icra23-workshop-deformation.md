@@ -1,6 +1,6 @@
 ---
 title: "3D Deformation Simulation for Vascular Tissue with 2D Medical Imaging"
-collection: publications
+collection: publications_workshop
 permalink: /publication/2023-icra-workshop-deformation
 excerpt: 'This work introduces a method to utilize 2D tomographic medical imaging for building and calibrating a simplified FEM simulation of 3D vessel structures.'
 date: 2023-05-29

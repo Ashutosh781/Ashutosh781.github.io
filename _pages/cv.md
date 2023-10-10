@@ -39,7 +39,7 @@ Publications
 ======
 
   <ul>
-  {% for post in site.publications reversed %}
+  {% for post in site.publications_conference reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>

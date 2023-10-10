@@ -21,6 +21,6 @@ Workshop Papers
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications_workshop reversed %}
   {% include archive-single.html %}
 {% endfor %}
