@@ -7,8 +7,8 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile]({{site.author.googlescholar}}).
 
-Conference Papers
-======
+<h3>Conference Papers</h3>
+
 
 {% include base_path %}
 
@@ -16,8 +16,7 @@ Conference Papers
   {% include archive-single.html %}
 {% endfor %}
 
-Workshop Papers
-======
+<h3>Workshop Papers</h3>
 
 {% include base_path %}
 
