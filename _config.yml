@@ -230,7 +230,23 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publications_journal
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+    - scope:
+      path: ""
+      type: publications_conference
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+    - scope:
+      path: ""
+      type: publications_workshop
     values:
       layout: single
       author_profile: true
