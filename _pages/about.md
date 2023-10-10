@@ -25,4 +25,7 @@ My past projects have included works on mathematical modelling, controls for leg
 
 ## Other Interests
 
-I like sketching and painting. I also enjoy discovering new coffee shops and trying out different brews.
+ I'm all about sketching, painting, and sipping on the best coffee I can find. I've got a soft spot for uncovering quirky coffee shops snd I also like to try out new coffee brewing methods and experiment with different beans. I am also total avgeek, obsessed with all things airplane.
+
+<!-- Fun Image -->
+<img title="With robot" alt="With robot" src="/images/about_me.png">
