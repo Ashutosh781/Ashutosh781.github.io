@@ -54,11 +54,13 @@
 }
 
 .page__footer-copyright {
+  color: mix($darker-gray, $dark-gray, 25%);
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-follow {
+  color: mix($darker-gray, $dark-gray, 25%);
   ul {
     margin: 0;
     padding: 0;
