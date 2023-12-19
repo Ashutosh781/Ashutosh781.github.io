@@ -13,8 +13,8 @@ You can view my complete CV [here](https://drive.google.com/file/d/1AqzNfTDYa_7I
 
 <h1>Education</h1>
 
-* M.S. in Robotics, Oregon State University, 2025 (expected)
-* B.E in Electronics and Communication, BITS Pilani Goa, 2023
+* M.S. in Robotics, Oregon State University, USA, 2025 (expected)
+* B.E in Electronics and Communication, BITS Pilani Goa, India, 2023
 
 <h1>Work experience</h1>
 
