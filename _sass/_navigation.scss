@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $darker-gray;
     color: $white;
     cursor: pointer;
   }
@@ -253,11 +253,11 @@
     position: absolute;
     top: 100%;
     right: 0;
-    margin-top: 15px;
-    padding: 5px;
+    margin-top: 7px;
+    padding: 0px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: $white;
+    background: $darker-gray;
     box-shadow: 0 0 10px rgba($black, 0.25);
 
     a {
