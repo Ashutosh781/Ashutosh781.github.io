@@ -12,3 +12,5 @@ Created an evolutionary algorithm-based real-time optimization module that deter
 <img title="Robotic Ultrasound setup" alt="Robotic Ultrasound setup" src="/images/rus.png">
 
 Above image shows the robotic ultrasound setup used.
+
+[Link to the Publication](https://ieeexplore.ieee.org/document/10161513)

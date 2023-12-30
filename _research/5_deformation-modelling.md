@@ -12,3 +12,5 @@ Used the FEM simulation to estimate the material properties of tissues in calibr
 <img title="Deformation modelling setup" alt="Deformation modelling setup" src="/images/deformation-model.png">
 
 Above image shows our Robotic and simulation setup
+
+[Link to the paper](https://deformable-workshop.github.io/icra2023/spotlight/27-Bal-Spotlight.pdf)
