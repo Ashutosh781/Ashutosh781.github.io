@@ -20,18 +20,18 @@ You can view my complete CV [here](https://drive.google.com/file/d/1AqzNfTDYa_7I
 
 * Jun 2022 - May 2023: Research Intern
   * Biorobotics Lab, Carneigie Mellon University
-  * Supervisor: Professor Howie Choset
+  * Advisor: Professor Howie Choset
 
 * Jun 2021 - May 2022: Remote Research Collaborator
   * Sheffield Robotics, The University of Sheffield
-  * Supervisor: Dr Robert Worley
+  * Advisor: Dr Robert Worley
 
 * Jun 2021 - Jul 2021: Robotics Intern
-  * Peppermint Robots, India
+  * Peppermint Robotics, India
 
 * May 2021 - Jul 2021: Remote Research Intern
   * CSIR - National Institute of Oceanography, India
-  * Supervisor: Gajanan Navelkar
+  * Advisor: Gajanan Navelkar
 
 <h1>Publications</h1>
 
