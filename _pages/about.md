@@ -30,3 +30,5 @@ I am all about sketching, painting, and sipping on the best coffee I can find. I
 
 <!-- Fun Image -->
 <img title="With robot" alt="With robot" src="/images/about_me.png">
+
+Image description: Me with the TRACIR (project at Biorobotics Lab, CMU) robot at UPMC, Pittsburgh, USA after successful experiments with the robot on pigs.
