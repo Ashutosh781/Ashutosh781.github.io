@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my MS in Robotics at the [Collaborative Robotics and Intelligent Systems Institute (CoRIS)](https://engineering.oregonstate.edu/CoRIS) at Oregon State University (OSU). I completed my BE in Electronics and Communication from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023.
+I am currently pursuing my PhD in Robotics and Artificial intelligence (AI) at the [Collaborative Robotics and Intelligent Systems Institute (CoRIS)](https://engineering.oregonstate.edu/CoRIS) at Oregon State University (OSU). I completed my BE in Electronics and Communication from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023.
 
-My current research focuses on Reinforcement Learning control for complex-legged systems. One project is developing a control policy for multiple connected Cassie robots to perform a dynamic task. I am working under [Prof. Alan Fern](https://engineering.oregonstate.edu/people/alan-fern) and [Prof. Ross Hatton](https://engineering.oregonstate.edu/people/ross-hatton) at the Dynamic Robotics & Artificial Intelligence Lab ([DRAIL](https://mime.engineering.oregonstate.edu/research/drl/)) and Laboratory for Robotics & Applied Mechanics ([LRAM](https://research.engr.oregonstate.edu/lram/)) respectively at OSU.
+My current research focuses on Reinforcement Learning control with integration of vision for complex-legged systems. One project is developing a control policy for multiple Bipedal (Cassie) robots for payload transport. I am working under [Prof. Alan Fern](https://engineering.oregonstate.edu/people/alan-fern) in the Dynamic Robotics & Artificial Intelligence Lab ([DRAIL](https://mime.engineering.oregonstate.edu/research/drl/)).
 
 For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/), CMU, USA under [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). My notable work there included developing a surface reconstruction module for a robotic ultrasound system and working on distributed and decentralized control for a modular leg-wheel hybrid robot.
 
@@ -22,7 +22,7 @@ You can download my CV [here](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrY
 
 ## Research Interests
 
-My current research interests lie in developing controls and motion planning for highly dynamic systems. Apart from this, I am eager to investigate and discover applications of crucial fields such as perception and deep learning to augment traditional control approaches. My past projects have included works on mathematical modelling, controls for legged robots, 3D vision and signal processing.
+My current research interests lie in developing controls and motion planning for highly dynamic systems. Apart from this, I am eager to investigate and discover applications of crucial fields such as perception and reinforcement learning to augment traditional control approaches. My past projects have included works on mathematical modelling, controls for legged robots, 3D vision and signal processing.
 
 ## Other Interests
 

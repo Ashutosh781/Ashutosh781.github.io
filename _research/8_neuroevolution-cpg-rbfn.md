@@ -9,7 +9,7 @@ Designed an Evolutionary algorithm to optimize adaptability of model-free CPG-RB
 
 Demonstrated empirical evaluations on the Half Cheetah environment, validating the neuroevolution policy’s capability to learn walking behaviors amid noise and diverse inputs.
 
-<img title="Void detection pipeline" alt="Void detection pipeline" src="/images/cpg-rbfn.png">
+<img title="CPG-RBF network architecture" alt="CPG-RBF network architecture" src="/images/cpg-rbfn.png">
 
 Above image shows the CPG-RBF network architecture
 

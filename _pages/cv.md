@@ -13,10 +13,15 @@ You can view my complete CV [here](https://drive.google.com/file/d/1AqzNfTDYa_7I
 
 <h1>Education</h1>
 
-* M.S. in Robotics, Oregon State University, USA, 2025 (expected)
-* B.E in Electronics and Communication, BITS Pilani Goa, India, 2023
+* PhD in Robotics and Artificial Intelligence, Oregon State University, USA
+* M.S. in Robotics, Oregon State University, USA
+* B.E in Electronics and Communication, BITS Pilani Goa, India
 
 <h1>Work experience</h1>
+
+* Jun 2024 - Present: Graduate Research Assistant
+  * Dynamic Robotics and Artificial Intelligence Lab, Oregon State University
+  * Advisor: Professor Alan Fern
 
 * Jun 2022 - May 2023: Research Intern
   * Biorobotics Lab, Carneigie Mellon University
