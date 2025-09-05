@@ -13,30 +13,30 @@ You can view my complete CV [here](https://drive.google.com/file/d/1AqzNfTDYa_7I
 
 <h1>Education</h1>
 
-* PhD in Robotics and Artificial Intelligence, Oregon State University, USA
-* M.S. in Robotics, Oregon State University, USA
+* M.S. in Robotics (AI minor), Oregon State University, USA
 * B.E in Electronics and Communication, BITS Pilani Goa, India
 
 <h1>Work experience</h1>
 
 * Jun 2024 - Present: Graduate Research Assistant
   * Dynamic Robotics and Artificial Intelligence Lab, Oregon State University
-  * Advisor: Professor Alan Fern
+  * Supervisor: Prof Alan Fern
 
 * Jun 2022 - May 2023: Research Intern
   * Biorobotics Lab, Carneigie Mellon University
-  * Advisor: Professor Howie Choset
+  * Supervisor: Prof Howie Choset
 
 * Jun 2021 - May 2022: Remote Research Collaborator
   * Sheffield Robotics, The University of Sheffield
-  * Advisor: Dr Robert Worley
+  * Supervisor: Dr Robert Worley
 
 * Jun 2021 - Jul 2021: Robotics Intern
   * Peppermint Robotics, India
+  * Supervisor: Harshal Deshpande
 
 * May 2021 - Jul 2021: Remote Research Intern
   * CSIR - National Institute of Oceanography, India
-  * Advisor: Gajanan Navelkar
+  * Supervisor: Sh Gajanan Navelkar
 
 <h1>Publications</h1>
 

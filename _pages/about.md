@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my PhD in Robotics and Artificial intelligence (AI) at the [Collaborative Robotics and Intelligent Systems Institute (CoRIS)](https://engineering.oregonstate.edu/CoRIS) at Oregon State University (OSU). I completed my BE in Electronics and Communication from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023.
+I am currently pursuing my M.S. in Robotics with a minor in Artificial intelligence (AI) at the [Collaborative Robotics and Intelligent Systems Institute (CoRIS)](https://engineering.oregonstate.edu/CoRIS) at Oregon State University (OSU). I completed my BE in Electronics and Communication from [BITS Pilani, Goa campus](https://www.bits-pilani.ac.in/goa/) in 2023. I have hands-on expertise in reinforcement learning, sim-to-real transfer, multi-agent systems, and whole-body control for quadrupeds and humanoids.
 
-My current research focuses on Reinforcement Learning control with integration of vision for complex-legged systems. One project is developing a control policy for multiple Bipedal (Cassie) robots for payload transport. I am working under [Prof. Alan Fern](https://engineering.oregonstate.edu/people/alan-fern) in the Dynamic Robotics & Artificial Intelligence Lab ([DRAIL](https://mime.engineering.oregonstate.edu/research/drl/)).
+My current research focuses on Learning-based control for complex-legged systems such as Bipeds, Humanoids, and Quadrupeds. One of my notable project is developing a control policy for multiple Bipedal (Cassie) robots for payload transport. I am working with [Prof. Alan Fern](https://engineering.oregonstate.edu/people/alan-fern) in the Dynamic Robotics & Artificial Intelligence Lab ([DRAIL](https://mime.engineering.oregonstate.edu/research/drl/)).
 
-For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/), CMU, USA under [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). My notable work there included developing a surface reconstruction module for a robotic ultrasound system and working on distributed and decentralized control for a modular leg-wheel hybrid robot.
+For my undergraduate thesis, I worked at [Biorobotics lab](https://www.ri.cmu.edu/robotics-groups/biorobotics/), CMU with [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/). My notable work there included developing a 3D surface reconstruction module for a robotic ultrasound system and working on modular snake robot locomotion.
 
-Prior to that, I remotely collaborated with the [Pipebots](https://pipebots.ac.uk/) team at the University of Sheffield, UK, under [Dr. Robert Worley](https://pipebots.ac.uk/people/rob-worley/). I mainly worked on developing and modelling acoustics simulation packages to solve for higher-order sound reflections in pipes.
+Prior to that, I remotely collaborated with the [Pipebots](https://pipebots.ac.uk/) team at the University of Sheffield, UK, with [Dr. Robert Worley](https://pipebots.ac.uk/people/rob-worley/). I mainly worked on developing and modelling acoustics simulation packages to solve for higher-order sound reflections in pipes.
 
 Further details of my work can be found in the [Research](/research/) section and my papers in the [Publications](/publications/) section.
 

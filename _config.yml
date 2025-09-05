@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashutosh Gupta"
 title_separator          : "-"
 name                     : &name "Ashutosh Gupta"
-description              : &description "PhD Student Robotics and AI at Oregon State University"
+description              : &description "MS Student Robotics (AI minor) at Oregon State University"
 url                      : https://ashutosh781.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ashutosh781.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ashutosh Gupta"
   avatar           : "profile.png"
-  bio              : "PhD Student Robotics and AI at Oregon State University"
-  location         : "Oregon, USA"
+  bio              : "MS Robotics (AI minor) at Oregon State University"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ZEtR-yMAAAAJ&hl=en"
-  email            : "guptaash@oregonstate.edu"
-  researchgate     : "https://www.researchgate.net/profile/Ashutosh-Gupta-71"
+  email            : "gupta.ash.19223@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Ashutosh-Gupta-71"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "ashutosh-gupta781"
-  orcid            : "https://orcid.org/0009-0007-0101-4585"
+  orcid            : #"https://orcid.org/0009-0007-0101-4585"
   pinterest        :
   soundcloud       :
   stackoverflow    :
